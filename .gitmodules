@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vancuong196/frontend.git
+[submodule "internal"]
+	path = internal
+	url = https://github.com/vancuong196/internal.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/vancuong196/buildroot.git
